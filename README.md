@@ -1,4 +1,5 @@
-# SOS Emergency App
+# SOS Emergency App for women safety 
+
 
 ## About the Project
 
